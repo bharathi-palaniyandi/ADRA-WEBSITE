@@ -705,9 +705,9 @@ nav ul li a{
 }
 .what img{
     height: 300px;
-    width: 350px;
+    width: 300px;
     margin-top: 20px;
-    margin-left: 70px;
+    margin-left:    50px;
 }
 .container-04{
     margin-top: 90px;
@@ -719,6 +719,7 @@ nav ul li a{
     margin-top: 20px;
     font-size: 20px;
 }
+
 
 #box {
     font-size: 14px;
@@ -774,8 +775,8 @@ i{
 
 .carre h3{
     font-size: 20px;
-    width: 100%;
-    margin-left: 20px;
+    width: 370px;
+    margin-left: 0px;
     text-align: center;
 
 }
